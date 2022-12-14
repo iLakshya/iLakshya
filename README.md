@@ -2,10 +2,10 @@
 
 ### 🧑🏻‍💻 About Me
 
-💡 I like to explore new technologies in software domain.\
-🎓 I'm currently studying Computer Science Engineering at Manipal University Jaipur.\
-🗺️ I'm on my track to explore artificial intelligence and machine learning.\
-🌱 In my free time I am devoted towards my NGO (startup).\
+💡 Exploring new technologies in the world of softwarre is one of my passion.\
+🎓 In order to enhance my skills in the field of technology I am pursuing B.Tech in Computer Science Manipal University Jaipur.\
+🗺️ Looking forward to explore the domain of Artificial Intelligence and Machine Learning is where I find my interest.\
+🌱 My own startup (NGO) keeps me busy and occupied for most of the time.\
 💬 Feel free to reach me out for some queries or talks on some interesting topics.\
 ✉️ You can shoot me an email at lakshyagoel02@gmail.com I'll try to respond as soon as I can.
 
