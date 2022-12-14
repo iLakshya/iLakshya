@@ -2,11 +2,10 @@
 
 ### 🧑🏻‍💻 About Me
 
-💡 Exploring new technologies in the world of softwarre is one of my passion.\
-🎓 In order to enhance my skills in the field of technology I am pursuing B.Tech in Computer Science Manipal University Jaipur.\
+🎯 Exploring new technologies in the world of softwarre is one of my passions.\
+🎓 In order to enhance my skills in the field of technology, I am pursuing B.Tech in Computer Science Manipal University Jaipur.\
 🗺️ Looking forward to explore the domain of Artificial Intelligence and Machine Learning is where I find my interest.\
 🌱 My own startup (NGO) keeps me busy and occupied for most of the time.\
-💬 Feel free to reach me out for some queries or talks on some interesting topics.\
 ✉️ You can shoot me an email at lakshyagoel02@gmail.com I'll try to respond as soon as I can.
 
 ### 🛠️ Tech Stack
