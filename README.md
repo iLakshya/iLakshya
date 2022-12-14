@@ -32,6 +32,9 @@
 </a>
 </p>
 
+### 🏆 My Holopin Board
+[![@ilakshya's Holopin board](https://holopin.me/ilakshya)](https://holopin.io/@ilakshya)
+
 ### 🤝🏻 Connect with Me
 
 <p align="center">
